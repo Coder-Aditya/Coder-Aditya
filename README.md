@@ -1,5 +1,5 @@
-## A Active Game Developer 
-- 👋 Hi, I’m @Coder-Aditya
+## An Active Game Developer :eye_speech_bubble:
+- 👋 Hi, I’m @Coder-Aditya :technologist:
 - 👀 I’m interested in Game Developement and UI & UX Designing.
 - 🌱 I’m currently learning and looking for Internship.
 - 💞️ Hi, I'm a Game Developer and Game Designer.Core knowledge on C# , C++ , C , swift and Unity Game Engine.
