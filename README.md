@@ -10,8 +10,8 @@
 - [x] C++
 - [x] .Net
 ### Game Engine:
-- [ ] Unreal
-- [ ] Unity
+- [X] Unreal
+- [X] Unity
 ### Designing Tool:
 - [x] Blender
 - [X] Maya 
